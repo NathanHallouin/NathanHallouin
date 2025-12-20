@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NathanHallouin/NathanHallouin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=a684ff&height=280&section=header&text=Nathan%20Hallouin&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38)
 
-Here are some ideas to get you started:
+## Fullstack Engineer & Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Great code whispers its intent, bad code screams its confusion."*
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-a684ff?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-hallouin)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-a684ff?style=flat-square&logo=google-chrome&logoColor=white)](https://nathanhallouin.dev)
+
+</div>
+
+---
+
+## Current Focus
+
+Building the tools I wish existed for developers.
+
+- 🎯 Crafting scalable fullstack applications
+- 🔺 Exploring modern JavaScript ecosystems
+- 🤖 Leveraging AI-enhanced development workflows
+
+## Tech Stack
+
+**Frontend**
+- React, Vue.js, Angular
+- TypeScript, JavaScript (ES6+)
+- Tailwind CSS, SCSS
+- Redux, Pinia, RxJS
+
+**Backend**
+- Node.js (Express, Fastify)
+- Java Spring Boot
+- PostgreSQL, MongoDB, Redis
+- GraphQL, REST APIs
+
+**DevOps & Tools**
+- Docker, Kubernetes
+- AWS (EC2, S3, RDS, Lambda)
+- GitHub Actions, Jenkins
+- Claude Code, MCP Protocol
+
+---
+
+<div align="center">
+
+### Open to collaborating on interesting projects
+
+</div>
