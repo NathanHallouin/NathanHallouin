@@ -1,13 +1,13 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=042e6f&height=280&section=header&text=Nathan%20Hallouin&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=02183c&height=280&section=header&text=Nathan%20Hallouin&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38)
 
 ## Fullstack Engineer & Problem Solver
 
 *"Great code whispers its intent, bad code screams its confusion."*
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-042e6f?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-hallouin)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-042e6f?style=flat-square&logo=google-chrome&logoColor=white)](https://nathanhallouin.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-02183c?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-hallouin)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-02183c?style=flat-square&logo=google-chrome&logoColor=white)](https://nathanhallouin.dev)
 
 </div>
 
