@@ -24,14 +24,13 @@ Building the tools I wish existed for developers.
 ## Tech Stack
 
 **Frontend**
-- React, Vue.js, Angular
+- React
 - TypeScript, JavaScript (ES6+)
 - Tailwind CSS, SCSS
-- Redux, Pinia, RxJS
+- Redux, Zustand
 
 **Backend**
 - Node.js (Express, Fastify)
-- Java Spring Boot
 - PostgreSQL, MongoDB, Redis
 - GraphQL, REST APIs
 
