@@ -31,8 +31,14 @@ Building the tools I wish existed for developers.
 
 **Backend**
 - Node.js (Express, Fastify)
+- Rust
 - PostgreSQL, MongoDB, Redis
 - GraphQL, REST APIs
+
+**AI**
+- Claude API, OpenAI API, Mistral API
+- LangChain
+- RAG, Prompt Engineering
 
 **DevOps & Tools**
 - Docker, Kubernetes
